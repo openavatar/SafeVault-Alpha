@@ -1,6 +1,6 @@
-# Buffer
+# SafeVault Alpha Version Based Buffer
 
-> create a group to collect money and let members withdraw their share
+> Create a Contract Vault to collect money and let members withdraw their share
 
 Learn more here: https://buffer2.moneypipe.xyz
 
